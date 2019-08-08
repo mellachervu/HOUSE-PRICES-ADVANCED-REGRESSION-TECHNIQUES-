@@ -10,7 +10,7 @@ Python,SQL,Tableau
 
 ## Results
 
-Achieved RMSE score of 0.11 on the test set using a blend of various models.
-Stacked model is also one of the models which is a blend of Machine Learning algorithms like Lasso Regression, Ridge Regression, Elastic Net, Support Vector Machine, Gradient Boost, Light Gradient Boost, XgBoost.
+Achieved RMSE score of 0.11 on the test set using a blended model.
+Stacked model is also one of the models used which is the combination of Machine Learning algorithms like Lasso Regression, Ridge Regression, Elastic Net, Support Vector Machine, Gradient Boost, Light Gradient Boost, XgBoost.
 
     
