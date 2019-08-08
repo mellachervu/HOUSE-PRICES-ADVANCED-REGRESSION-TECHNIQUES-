@@ -8,7 +8,7 @@ People dream about owning the ideal house that satisfies their desired needs whi
 
 ## Technologies
  
-Python,SQL,Tableau
+Python(Numpy, Pandas, Sklearn, Matplotlib),SQL,Tableau
 
 ## Results
 
